@@ -1,2 +1,2 @@
 # animations
-few animations using victoria giotto
+Few animations using victoria giotto
